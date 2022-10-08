@@ -1,6 +1,3 @@
-# B_Project
-  This is for testing git
- 
- 
-  # Website Project
-   This is Travel Forever for <Andrew Freckleton>
+# Flight Forever
+  This is for testing git.
+   This is Travel Forever for <Andrew Freckleton>.
